@@ -1,4 +1,4 @@
-<h1 align="center">OpenCharAI</h1>
+<h1 align="center">OmniChar Org</h1>
 
 <h3 align="center">Own diffusion engine · train LoRAs locally · runs on your GPU</h3>
 
@@ -9,7 +9,7 @@ getting there.
 </p>
 
 <p align="center">
-  <a href="https://inlinestudio.art"><img alt="Website" src="https://img.shields.io/badge/Website-inlinestudio.art-111111?style=for-the-badge"></a>
+  <a href="https://omnichar.org"><img alt="Website" src="https://img.shields.io/badge/Website-omnichar.org-111111?style=for-the-badge"></a>
   <a href="https://discord.gg/cSUS88VdY9"><img alt="Discord" src="https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?logo=discord&logoColor=white&style=for-the-badge"></a>
   <a href="https://huggingface.co/inlineresearch"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-inlineresearch-FFD21E?style=for-the-badge"></a>
   <a href="https://civitai.com/user/inlineresearch"><img alt="Civitai" src="https://img.shields.io/badge/Civitai-inlineresearch-1971C2?style=for-the-badge"></a>
@@ -20,7 +20,7 @@ getting there.
 
 ## What we build
 
-**[OpenChar Studio](https://github.com/OpenCharAI/OpenChar)**, a free and open source canvas
+**[Omnichar Studio](https://github.com/OpenCharAI/Omnichar)**, a free and open source canvas
 for AI filmmaking.
 
 We built it after wasting too many afternoons hunting for the workflow and the assets that made a
