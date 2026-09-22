@@ -20,7 +20,7 @@ getting there.
 
 ## What we build
 
-**[Omnichar Studio](https://github.com/OpenCharAI/Omnichar)**, a free and open source canvas
+**[Omnichar Studio](https://github.com/omnichar/Omnichar)**, a free and open source canvas
 for AI filmmaking.
 
 We built it after wasting too many afternoons hunting for the workflow and the assets that made a
